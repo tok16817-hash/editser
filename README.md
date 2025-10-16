@@ -127,5 +127,5 @@ npm start
 
 ---
 ### 📌 Liên Hệ Mua Bot Mirai V3
-💬 **Facebook:** [Fb.com/100047128875560](https://www.facebook.com/100047128875560)  
-📞 **Zalo:** 0786888655
+💬 **Facebook:** [[Fb.com/100047128875560](https://www.facebook.com/100047128875560)](https://www.facebook.com/ng.minh.tri.768741/)  
+📞 **Zalo:** 0986914147
